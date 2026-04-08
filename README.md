@@ -1,32 +1,45 @@
 ## Hey, I'm Nurpais 👋
 
-Full-stack developer with 8+ years of experience building web applications across the entire stack — from pixel-perfect frontends to scalable backends and on-chain integrations.
+Full-stack developer, 8+ years shipping web apps end to end. I build production-ready products across Next.js, Node, Supabase, Web3, and AI integrations with Claude.
 
-70+ projects delivered on [Upwork](https://www.upwork.com/freelancers/nurpais) · $60K+ earned · Based in Kyrgyzstan
+73 jobs delivered on [Upwork](https://www.upwork.com/freelancers/nurpais) · $60K+ earned · 1400+ hours · 100% JSS · Based in Kyrgyzstan 🇰🇬
 
 ### What I work with
 
 **Frontend**
-React · Next.js · Vue 3 · Nuxt · TypeScript · Tailwind CSS · Radix UI · shadcn/ui · GSAP · Framer Motion
+Next.js · React · Nuxt · Vue 3 · TypeScript · Tailwind · Radix · shadcn/ui · Framer Motion · GSAP
+
+**AI**
+Claude API · MCP servers · Claude Code · pgvector · RAG
 
 **Backend**
-Node.js · NestJS · Python · PostgreSQL · MySQL · REST · WebSocket
+Node.js · NestJS · Python · PostgreSQL · Supabase · Prisma · REST · WebSocket
 
 **Web3**
-Solana (web3.js, Anchor) · EVM (ethers.js, viem, wagmi) · Helius · Alchemy
+Solana (Anchor, web3.js, Helius) · EVM (ethers.js, viem, wagmi)
 
-**Systems**
-Rust · WebAssembly
+**Auth**
+Keycloak · OpenID Connect · PKCE · Supabase Auth · RLS
 
 ### Featured projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**XForm Engine**](https://rust-form.vercel.app) | OpenRosa XForm renderer at near-native speed | Rust, WASM, JS |
-| [**Crypto Board**](https://crypto-board-rosy.vercel.app) | Real-time crypto dashboard with AI token analysis | Next.js, Solana, Helius |
-| [**Adamo Compliance**](https://adamo-services-dashboard.vercel.app) | AML/KYC compliance dashboard | Next.js, TanStack, Radix UI |
-| [**Adamo Sign**](https://adamo-sign.vercel.app) | E-signature platform with hash verification | Next.js, React, Zod |
+| [**Adamo Compliance**](https://adamo-services-dashboard.vercel.app) | Multi-tenant AML/KYC dashboard with role-based access and document parsing | Next.js, Supabase, Claude API, TanStack |
+| [**Adamo Sign**](https://adamo-sign.vercel.app) | E-signature platform with hash verification and audit trail | Next.js, React, Zod |
+| [**XForm Engine**](https://rust-form.vercel.app) | OpenRosa XForm renderer compiled to WASM, near-native speed | Rust, WASM, JS |
+| [**Crypto Board**](https://crypto-board-rosy.vercel.app) | Real-time Solana dashboard with AI token analysis | Next.js, Solana, Helius, Claude API |
+| [**Cowork Tashkent**](https://cowork-tashkent.pages.dev) | Directory site with Git-based CMS and interactive maps | Astro, Decap CMS, Leaflet, Cloudflare Pages |
+| [**Hub University**](https://hub.university.kg) | SSO portal with custom Keycloak theme | Keycloak, OIDC, Vue |
 | [**Portfolio**](https://nurpais.github.io) | Personal site | Nuxt, Tailwind, GSAP |
+
+### What I'm good at
+
+- Shipping clean, production-ready code in existing codebases — respect existing patterns, refactor only when it pays for itself
+- AI integrations with Claude API — tool use, structured output, strict system prompts, RAG with pgvector
+- Multi-tenant apps with RLS and role-based access done right the first time
+- Web3 frontends that handle wallet edge cases (chain switching, disconnects mid-transaction, failed txs)
+- Async work across timezones, zero meetings required
 
 ### Get in touch
 
