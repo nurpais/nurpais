@@ -43,7 +43,4 @@ Keycloak · OpenID Connect · PKCE · Supabase Auth · RLS
 
 ### Get in touch
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=flat&logo=safari&logoColor=4ade80)](https://nurpais.github.io)
 [![Upwork](https://img.shields.io/badge/Upwork-14a800?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/nurpais)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/nurpais)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:orozulbaev@gmail.com)
